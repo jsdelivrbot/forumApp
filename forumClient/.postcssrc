@@ -1,0 +1,11 @@
+{
+  "map": true,
+  "modules": true,
+  "plugins": {
+    "postcss-import": {},
+    "stylelint": {},
+    "postcss-font-magician": {},
+    "postcss-cssnext": {},
+    "css-mqpacker": {}
+  }
+}

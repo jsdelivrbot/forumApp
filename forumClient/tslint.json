@@ -1,0 +1,25 @@
+{
+  "extends": "tslint-react",
+  "rulesDirectory": "src",
+  "rules": {
+    "max-line-length": {
+      "options": [120]
+    },
+    "jsx-key": true,
+    "jsx-no-bind": true,
+    "jsx-wrap-multiline": true,
+    "jsx-space-before-trailing-slash": true,
+    "jsx-self-close": true,
+    "class-name": true,
+    "curly": true,
+    "whitespace": true,
+    "typedef": true,
+    "typedef-whitespace": true,
+    "indent": true,
+    "interface-name": true,
+    "linebreak-style": true,
+    "semicolon": true,
+    "jsx-no-multiline-js": false,
+    "jsx-boolean-value": false
+  }
+}

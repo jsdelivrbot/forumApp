@@ -1,0 +1,8 @@
+## Mac residual files
+.DS_Store
+
+## dependencies folders
+node_modules
+
+## build folder
+dist
